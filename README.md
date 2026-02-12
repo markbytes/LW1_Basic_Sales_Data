@@ -99,11 +99,11 @@ Part B – Analytical Questions
 7. Which category has the lowest performance?
    - Clothing
 8. Are sales increasing, decreasing, or stable?
-  -  Decreasing
+   -  Decreasing
 9. If you were a manager, which region would you prioritize?
-  - I would prioritize the West Region.
+   - I would prioritize the West Region.
 10. Provide one actionable recommendation based on the data.
-  - Focus on strategizing how to stop the decreasing sales by promoting products, improving marketing strategies, and boosting sales.
+   - Focus on strategizing how to stop the decreasing sales by promoting products, improving marketing strategies, and boosting sales.
 
 # ENHANCEMENT SECTION
 Task 1: Add a Card Visualization
