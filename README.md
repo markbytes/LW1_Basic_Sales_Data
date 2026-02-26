@@ -2,7 +2,7 @@
 ## Submitted By:
 Mark Allan T. Salvador
 ## Laboratory Title:
-Laboratory Work [1] – [Laboratory Work 1 - Introduction to Business Intelligence & Power BI
+Laboratory Work 1 – [Laboratory Work 1 - Introduction to Business Intelligence & Power BI
 ## PDF Documentation
 https://drive.google.com/file/d/1TwSAW0EuwTa5vO36jGdPUT8hzRD8lJOT/view?usp=sharing
 
