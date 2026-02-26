@@ -1,5 +1,11 @@
-# LW1_Basic_Sales_Data
-# Laboratory Work 1 - Introduction to Business Intelligence & Power BI
+# Power BI Laboratory Activity
+## Submitted By:
+Mark Allan T. Salvador
+## Laboratory Title:
+Laboratory Work [1] – [Laboratory Work 1 - Introduction to Business Intelligence & Power BI
+## PDF Documentation
+[Click here to view the PDF](./Salvador_MarkAllan_LW1.pdf)
+
 
 # PART 1: Launching Power BI & Loading Data
 
